@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+opencv-python
+torch>=2.0
+torchvision
+Pillow
+ultralytics  # optional if using new YOLOv8

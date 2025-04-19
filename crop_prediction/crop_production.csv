@@ -1,0 +1,6 @@
+State,Crop,Variety,Cost of Cultivation (`/Hectare) A2+FL,Cost of Cultivation (`/Hectare) C2,Production
+Gujarat,Wheat,Variety_A,12000,18000,22.5
+Maharashtra,Rice,Variety_B,15000,20000,26.0
+Punjab,Maize,Variety_A,13000,17500,24.5
+Gujarat,Rice,Variety_B,14500,19000,25.0
+Punjab,Wheat,Variety_A,12500,18500,23.0
